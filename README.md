@@ -14,7 +14,21 @@ Gain insights into Indian Premier League (IPL) cricket data with this comprehens
 ---
 
 ## Screenshots
+![Matches_Played by Teams](images/each_team.png)
 
+![Toss Decision](images/toss_decision.png)
+
+![Player of Match](images/top_players.png)
+
+![Top Bowlers](images/top_bowlers.png)
+
+![Win Match Bat First](images/win_match_bat_first.png)
+
+![Win Match Field First](images/win_match_field_first.png)
+
+![Toss Win Match Win](images/toss_win_match_win.png)
+
+![IPL Champions](images/ipl_champions.png)
 <!-- Add your output images in the images/ directory and reference them here -->
 <!-- Example: -->
 <!-- ![Runs by Teams](images/runs_by_teams.png) -->
